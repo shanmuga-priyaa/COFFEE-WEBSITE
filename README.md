@@ -19,9 +19,13 @@ bash
 Copy code
 git clone https://github.com/shanmuga-priyaa/COFFEE-WEBSITE.git
 Open index.html in your browser to view the website.
+
+
 📚 Future Enhancements
 Add a menu or pricing section.
 Include a blog or newsletter subscription feature.
 Add animations or effects to enhance user interaction.
+
+
 👩‍💻 Author
-Shanmuga Priyaa - Frontend Developer from India.
+Shanmuga Priyaa - Frontend Developer .
